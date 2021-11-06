@@ -1,7 +1,7 @@
 # guess_game
 A program covers the control flow and loops in Python.
 
-The program do the following:
+The program does the following:
 
 A randomly generated 4-digit number (input)
 
