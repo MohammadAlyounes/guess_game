@@ -1,5 +1,4 @@
 # guess_game
-A program covers the control flow and loops in Python.
 
 The program does the following:
 
